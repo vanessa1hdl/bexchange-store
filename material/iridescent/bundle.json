@@ -1,0 +1,89 @@
+{
+  "type": "material",
+  "name": "Iridescent",
+  "user": "vanessa1hdl@gmail.com",
+  "created": 1553803035833,
+  "modified": null,
+  "blender": {
+    "options": {
+      "loose": false,
+      "includePrerelease": false
+    },
+    "loose": false,
+    "raw": "2.80.47",
+    "major": 2,
+    "minor": 80,
+    "patch": 47,
+    "prerelease": [],
+    "build": [],
+    "version": "2.80.47"
+  },
+  "colors": {
+    "Vibrant": {
+      "name": "Golden Brown",
+      "value": "#b27a01",
+      "rgb": {
+        "r": 178,
+        "g": 122,
+        "b": 1
+      },
+      "distance": 9.055385138137417,
+      "origin": "#ba7d04"
+    },
+    "DarkVibrant": {
+      "name": "Xereus Purple",
+      "value": "#7d0061",
+      "rgb": {
+        "r": 125,
+        "g": 0,
+        "b": 97
+      },
+      "distance": 5,
+      "origin": "#7d045e"
+    },
+    "LightVibrant": {
+      "name": "Apricot Glow",
+      "value": "#ffce79",
+      "rgb": {
+        "r": 255,
+        "g": 206,
+        "b": 121
+      },
+      "distance": 5.830951894845301,
+      "origin": "#fcd17d"
+    },
+    "Muted": {
+      "name": "Lily Pad",
+      "value": "#818f84",
+      "rgb": {
+        "r": 129,
+        "g": 143,
+        "b": 132
+      },
+      "distance": 1.7320508075688772,
+      "origin": "#809083"
+    },
+    "DarkMuted": {
+      "name": "Ficus",
+      "value": "#3b593a",
+      "rgb": {
+        "r": 59,
+        "g": 89,
+        "b": 58
+      },
+      "distance": 4.898979485566356,
+      "origin": "#3d5538"
+    },
+    "LightMuted": {
+      "name": "Kamenozoki Grey",
+      "value": "#c6c2b6",
+      "rgb": {
+        "r": 198,
+        "g": 194,
+        "b": 182
+      },
+      "distance": 3.4641016151377544,
+      "origin": "#c4c4b4"
+    }
+  }
+}
