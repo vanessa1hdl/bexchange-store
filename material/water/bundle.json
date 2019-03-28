@@ -1,0 +1,19 @@
+{
+  "type": "material",
+  "user": "vanessa1hdl@gmail.com",
+  "timestamp": 1553755968462,
+  "blender": {
+    "options": {
+      "loose": false,
+      "includePrerelease": false
+    },
+    "loose": false,
+    "raw": "2.80.47",
+    "major": 2,
+    "minor": 80,
+    "patch": 47,
+    "prerelease": [],
+    "build": [],
+    "version": "2.80.47"
+  }
+}
