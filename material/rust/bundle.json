@@ -1,0 +1,89 @@
+{
+  "type": "material",
+  "name": "Rust",
+  "user": "vanessa1hdl@gmail.com",
+  "created": 1553851666815,
+  "modified": null,
+  "blender": {
+    "options": {
+      "loose": false,
+      "includePrerelease": false
+    },
+    "loose": false,
+    "raw": "2.80.47",
+    "major": 2,
+    "minor": 80,
+    "patch": 47,
+    "prerelease": [],
+    "build": [],
+    "version": "2.80.47"
+  },
+  "colors": {
+    "Vibrant": {
+      "name": "Hammered Copper",
+      "value": "#834831",
+      "rgb": {
+        "r": 131,
+        "g": 72,
+        "b": 49
+      },
+      "distance": 4.358898943540674,
+      "origin": "#84452e"
+    },
+    "DarkVibrant": {
+      "name": "Blood Organ",
+      "value": "#630f0f",
+      "rgb": {
+        "r": 99,
+        "g": 15,
+        "b": 15
+      },
+      "distance": 9.9498743710662,
+      "origin": "#621608"
+    },
+    "LightVibrant": {
+      "name": "Montezuma's Castle",
+      "value": "#d9ad9e",
+      "rgb": {
+        "r": 217,
+        "g": 173,
+        "b": 158
+      },
+      "distance": 3.605551275463989,
+      "origin": "#dcad9c"
+    },
+    "Muted": {
+      "name": "Dirt",
+      "value": "#9b7653",
+      "rgb": {
+        "r": 155,
+        "g": 118,
+        "b": 83
+      },
+      "distance": 2.449489742783178,
+      "origin": "#9c7454"
+    },
+    "DarkMuted": {
+      "name": "Birdhouse Brown",
+      "value": "#6c483a",
+      "rgb": {
+        "r": 108,
+        "g": 72,
+        "b": 58
+      },
+      "distance": 4.242640687119285,
+      "origin": "#684939"
+    },
+    "LightMuted": {
+      "name": "Kamenozoki Grey",
+      "value": "#c6c2b6",
+      "rgb": {
+        "r": 198,
+        "g": 194,
+        "b": 182
+      },
+      "distance": 3.4641016151377544,
+      "origin": "#c4c4b4"
+    }
+  }
+}
