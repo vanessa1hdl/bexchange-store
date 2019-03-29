@@ -2,7 +2,7 @@
   "type": "material",
   "name": "water",
   "user": "vanessa1hdl@gmail.com",
-  "created": 1553762679595,
+  "created": 1553818251337,
   "modified": null,
   "blender": {
     "options": {
@@ -17,5 +17,73 @@
     "prerelease": [],
     "build": [],
     "version": "2.80.47"
+  },
+  "colors": {
+    "Vibrant": {
+      "name": "Tropic Canary",
+      "value": "#bcc23c",
+      "rgb": {
+        "r": 188,
+        "g": 194,
+        "b": 60
+      },
+      "distance": 5.196152422706632,
+      "origin": "#bfbf3f"
+    },
+    "DarkVibrant": {
+      "name": "Badab Black Wash",
+      "value": "#0a0908",
+      "rgb": {
+        "r": 10,
+        "g": 9,
+        "b": 8
+      },
+      "distance": 5.385164807134504,
+      "origin": "#0c0c04"
+    },
+    "LightVibrant": {
+      "name": "Chalcedony",
+      "value": "#dddd99",
+      "rgb": {
+        "r": 221,
+        "g": 221,
+        "b": 153
+      },
+      "distance": 2,
+      "origin": "#dddd9b"
+    },
+    "Muted": {
+      "name": "Grey Porcelain",
+      "value": "#86837a",
+      "rgb": {
+        "r": 134,
+        "g": 131,
+        "b": 122
+      },
+      "distance": 4.242640687119285,
+      "origin": "#82847b"
+    },
+    "DarkMuted": {
+      "name": "Boltgun Metal",
+      "value": "#393939",
+      "rgb": {
+        "r": 57,
+        "g": 57,
+        "b": 57
+      },
+      "distance": 2.23606797749979,
+      "origin": "#383937"
+    },
+    "LightMuted": {
+      "name": "Kamenozoki Grey",
+      "value": "#c6c2b6",
+      "rgb": {
+        "r": 198,
+        "g": 194,
+        "b": 182
+      },
+      "distance": 3.4641016151377544,
+      "origin": "#c4c4b4"
+    }
   }
 }
