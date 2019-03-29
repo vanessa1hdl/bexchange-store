@@ -1,9 +1,9 @@
 {
   "type": "material",
-  "name": "Water",
+  "name": "water",
   "user": "vanessa1hdl@gmail.com",
   "created": 1553820401604,
-  "modified": 1553842859454,
+  "modified": 1553844026650,
   "blender": {
     "options": {
       "loose": false,
